@@ -5,4 +5,5 @@ The InputLayer and Dense layers available in Tensorflow is replicated and applie
 
 Papers sighted:-
 - https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3
-- 
+
+Accuracy ~ 93% due to the high computation required for the algorithm it takes plenty of time to perform optimization on large dataset. Hence requires massive gpu and cpu to compute.
